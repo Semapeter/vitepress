@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r,ae as i}from"./chunks/framework.tuuL-SzM.js";const c=JSON.parse('{"title":"金胡萝卜会员介绍","description":"","frontmatter":{},"headers":[],"relativePath":"金胡萝卜会员计划.md","filePath":"金胡萝卜会员计划.md"}'),o={name:"金胡萝卜会员计划.md"};function l(n,a,d,p,s,h){return r(),t("div",null,a[0]||(a[0]=[i("",17)]))}const m=e(o,[["render",l]]);export{c as __pageData,m as default};
