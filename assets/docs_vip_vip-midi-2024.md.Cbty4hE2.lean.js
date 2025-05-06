@@ -1,0 +1,1 @@
+import{_ as e,c as i,o as t}from"./chunks/framework.BJfjNJL0.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/vip/vip-midi-2024.md","filePath":"docs/vip/vip-midi-2024.md"}'),a={name:"docs/vip/vip-midi-2024.md"};function o(s,c,p,r,d,n){return t(),i("div")}const v=e(a,[["render",o]]);export{_ as __pageData,v as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BJfjNJL0.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/get-ace.md","filePath":"docs/get-ace.md"}'),c={name:"docs/get-ace.md"};function o(s,r,n,d,p,_){return a(),t("div")}const f=e(c,[["render",o]]);export{m as __pageData,f as default};
