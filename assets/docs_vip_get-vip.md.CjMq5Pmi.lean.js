@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.BJfjNJL0.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/vip/get-vip.md","filePath":"docs/vip/get-vip.md"}'),o={name:"docs/vip/get-vip.md"};function s(c,p,r,i,n,d){return a(),t("div")}const f=e(o,[["render",s]]);export{m as __pageData,f as default};

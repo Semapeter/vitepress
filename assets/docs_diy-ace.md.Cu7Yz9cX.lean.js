@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.NcZqgvTs.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/diy-ace.md","filePath":"docs/diy-ace.md"}'),c={name:"docs/diy-ace.md"};function o(s,r,d,n,i,p){return a(),t("div")}const f=e(c,[["render",o]]);export{m as __pageData,f as default};
