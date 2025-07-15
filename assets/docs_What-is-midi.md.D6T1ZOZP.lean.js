@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./chunks/framework.NcZqgvTs.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/What-is-midi.md","filePath":"docs/What-is-midi.md"}'),s={name:"docs/What-is-midi.md"};function i(o,c,r,d,n,m){return a(),e("div")}const f=t(s,[["render",i]]);export{_ as __pageData,f as default};
